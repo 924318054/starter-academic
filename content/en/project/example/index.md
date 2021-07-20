@@ -1,5 +1,5 @@
 ---
-title: Project1
+title: example
 summary: summary
 tags:
 - Deep Learning
