@@ -92,8 +92,8 @@ show_related:
   book: true
   page: false
   post: true
-  project: true
-  publication: true
+  project: false
+  publication: false
   event: true
 reading_time: true
 section_pager: false
@@ -155,4 +155,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: false
