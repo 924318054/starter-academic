@@ -5,6 +5,8 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 active: true
 
+weight: 20
+
 title : Group
 
 content:
