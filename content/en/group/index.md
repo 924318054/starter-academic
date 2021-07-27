@@ -1,6 +1,5 @@
 ---
-widget: people
-headless: true  # This file represents a page section.
+title : Group
 
 # ... Put Your Section Options Here (title etc.) ...
 
