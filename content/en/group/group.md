@@ -1,10 +1,10 @@
 ---
-widget: index
-headless: true
+widget: group
 
 # ... Put Your Section Options Here (title etc.) ...
 active: true
 
+headless: true
 weight: 20
 
 title : Group
@@ -29,4 +29,3 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: true
 ---
-
