@@ -14,17 +14,19 @@ main:
     url: './publication/'
     weight: 30
   - name: Group
-    url: '#group'
+    url: './group/'
     weight: 40
   - name: Courses
     url: '#courses'
     weight: 50
   - name: News
     url: '#cv'
-    weight: 60
+    weight: 60 
   - name: Data&codes
     url: '#contact'
     weight: 70
+
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
