@@ -8,5 +8,5 @@ superuser: False
 # Role/position/tagline
 role: Professor of Atmospheric and Oceanic Science
 
-user_groups: ["Researchers"]
+user_groups: "Researchers"
 ---
