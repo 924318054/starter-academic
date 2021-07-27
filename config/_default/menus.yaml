@@ -14,7 +14,7 @@ main:
     url: './publication/'
     weight: 30
   - name: Group
-    url: './group/#people'
+    url: './group/'
     weight: 40
   - name: Courses
     url: '#courses'
