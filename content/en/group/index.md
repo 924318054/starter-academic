@@ -1,8 +1,11 @@
 ---
-title : Group
+widget: people
+headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 active: true
+
+title : Group
 
 content:
   # Choose which groups/teams of users to display.
