@@ -1,5 +1,5 @@
 ---
-widget: group
+widget: people
 
 # ... Put Your Section Options Here (title etc.) ...
 active: true
