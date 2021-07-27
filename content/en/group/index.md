@@ -2,6 +2,7 @@
 title : Group
 
 # ... Put Your Section Options Here (title etc.) ...
+active: true
 
 content:
   # Choose which groups/teams of users to display.
