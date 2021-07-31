@@ -32,7 +32,7 @@ image:
 
 1）相对湿度变率长程记忆性的气候分区：在我国中部地区的南方和北方，基于记忆性的指标具有完全可分的取值范围（详见 Chen, Lin and Fu, Geophy. Res. Lett. 2007）。
 <center class="half">
-    <img src="/media/rs1.png" width="300"/>
-    <img src="/media/rs2.png" width="300"/>
+    <img src="/media/rs1.png" width="200"/>
+    <img src="/media/rs2.png" width="200"/>
 </center>
 
