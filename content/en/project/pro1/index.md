@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 # external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 # links:
@@ -30,4 +30,4 @@ image:
 # slides: example
 ---
 
-Some content...
+1）相对湿度变率长程记忆性的气候分区：在我国中部地区的南方和北方，基于记忆性的指标具有完全可分的取值范围（详见 Chen, Lin and Fu, Geophy. Res. Lett. 2007）。
