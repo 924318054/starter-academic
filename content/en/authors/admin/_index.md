@@ -17,11 +17,11 @@ organizations:
 bio: Short bio (no content)
 
 # Interests to show in About widget
-#interests:
-#- Nonlinear Dynamics
-#- Atmospheric Dynamics
-#- Time series Analysis
-#- Machine Learning
+interests:
+- Nonlinear Dynamics
+- Atmospheric Dynamics
+- Time series Analysis
+- Machine Learning
 
 experience:
   courses:
@@ -68,6 +68,8 @@ highlight_name: false
 ---
 
 Zuntao Fu is a professor in atmospheric sciences at Peking University. His research interests include nonlinear dynamics, atmospheric dynamics, time series analysis, and machine learning.
+
+He currently leads a group that analyzes global climate change and forecasting from a data-driven perspective, and welcomes all academic collaboration and communication.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
