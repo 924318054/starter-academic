@@ -28,6 +28,8 @@ image:
 # slides: example
 ---
 
+气候变率不但具有短程记忆性（相关函数随时间呈指数函数形式变化）也具有长程记忆性（相关函数随时间呈幂律函数形式变化）。 
+
 1）相对湿度变率长程记忆性的气候分区：在我国中部地区的南方和北方，基于记忆性的指标具有完全可分的取值范围（详见 {{< staticref "uploads/lm1.pdf" "newtab" >}}Chen, Lin and Fu, Geophy. Res. Lett. 2007{{< /staticref >}}）。
 |||
 |--|--|
