@@ -1,9 +1,9 @@
 ---
 title: Welcome to Professor Fu's research group!
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: Welcome 👋 Our group enrolls a Ph.D student every year from Summer Camp of School of Physics for excellent undergraduates (see web). Welcome undergraduates majoring in meteorology or others, especially physics & mathematics, to join us. You may contact Professor Fu.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Welcome 👋 Our group enrolls a Ph.D student every year from Summer Camp of School of Physics for excellent undergraduates (see web). Welcome undergraduates majoring in meteorology or others, especially physics & mathematics, to join us. You may contact Professor Fu.
 
 # Link this post with a project
 projects: []
