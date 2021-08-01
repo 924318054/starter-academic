@@ -1,16 +1,11 @@
 ---
-title: Project2
-summary: summary
-tags:
-- tag
+title: 气候变率的非线性特征：时间序列非对称与不可逆性
+summary: 由于大气运动存在多尺度结构系统，这些系统发生、发展和消亡等不同阶段会对不同变量产生截然不同的影响，从而导致这些变量的变率在时间上具有非对称的结构、整个过程是不可逆的，这是典型的非线性行为。
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
 # links:
 # - icon: twitter
@@ -30,4 +25,5 @@ image:
 # slides: example
 ---
 
-Some content...
+由于大气运动存在多尺度结构系统，这些系统发生、发展和消亡等不同阶段会对不同变量产生截然不同的影响，从而导致这些变量的变率在时间上具有非对称的结构、整个过程是不可逆的，这是典型的非线性行为。例如冷暖锋存在导致气温变率具有显著的非线性特征，详见 {{< staticref "uploads/ti1.pdf" "newtab" >}}Xie, Fu, Piao and Mao, Theor. Appl. Climat. 2016{{< /staticref >}}。
+<img src="/media/rs9.png" height="80%" width="80%">
