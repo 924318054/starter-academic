@@ -17,11 +17,10 @@ organizations:
 bio: Short bio (no content)
 
 # Interests to show in About widget
-# interests:
-# - Interest 1
-# - Interest 2
-# - Interest 3
-
+interests:
+- Nonlinear Dynamics
+- Atmospheric Dynamics
+- Time series Analysis
 # Education to show in About widget
 education:
   courses:
