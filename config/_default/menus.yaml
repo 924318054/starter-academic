@@ -17,7 +17,7 @@ main:
     url: './group/'
     weight: 40
   - name: Courses
-    url: './course/'
+    url: './courses/'
     weight: 50
   - name: News
     url: '#posts'
