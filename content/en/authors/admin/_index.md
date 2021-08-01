@@ -14,7 +14,7 @@ organizations:
   url: https://www.pku.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: Short bio (no content)
+bio: Investigating nonlinear dynamics, atmospheric dynamics, time series analysis, and machine learning.
 
 # Interests to show in About widget
 interests:
