@@ -35,3 +35,16 @@ image:
 |--|--|
 | <img src="/media/rs1.png"> | <img src="/media/rs2.png"> |
 
+2） 气温日较差变率的记忆性在南方和北方差异：在北方日较差变率具有单分形特征，而南方具有多分形特征（详见 Yuan, Fu and Mao, Theor. Appl. Climat. 2013）。
+<img src="/media/rs3.png">
+
+3） 大西洋沿岸气温变率长期记忆性的百年尺度振荡：记忆性是气候变化的内在属性，它不是恒定不变的，特别是在大西洋沿岸地区，气温的记忆性具有百年尺度的振荡特征（详见 Yuan and Fu, J. Clim. 2014）。
+|||
+|--|--|
+| <img src="/media/rs4.png"> | <img src="/media/rs5.png"> |
+
+4） 气候变率的长期记忆性的分数阶积分统计模型及其预测：气候变率可以分解为累积记忆分量和天气尺度激发两部分，即 x(t)=M(t)+Ε(t) 其中的累计记忆分量可以用分数阶积分计算出（详见Yuan, Fu and Liu, J. Geophys. Res. 2013；Yuan, Fu and Liu, Scientific Reports 2014）并用于气候变率的预测（详见Yuan, Fu and Liu, Scientific Reports 2014）
+<img src="/media/rs6.png">
+|||
+|--|--|
+| <img src="/media/rs7.png"> | <img src="/media/rs8.png"> |
