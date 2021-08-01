@@ -11,6 +11,7 @@ content:
     - Principal Investigators
     - Researchers
     - Grad Students
+    - Undergraduates
     - Administration
     - Visitors
     - Alumni
@@ -22,5 +23,5 @@ design:
   # Show user's role?
   show_role: true
   # Show user's organizations/affiliations?
-  show_organizations: true
+  show_organizations: false
 ---
