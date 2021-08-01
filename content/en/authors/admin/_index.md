@@ -17,17 +17,43 @@ organizations:
 bio: Short bio (no content)
 
 # Interests to show in About widget
-interests:
-- Nonlinear Dynamics
-- Atmospheric Dynamics
-- Time series Analysis
+#interests:
+#- Nonlinear Dynamics
+#- Atmospheric Dynamics
+#- Time series Analysis
+#- Machine Learning
+
+experience:
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in ...
+  - course: PhD in Atmospheric sciences
     institution: Peking University
     year: 1999
-  - course: BSc in ...
+  - course: BSc in Physics
     institution: Peking University
     year: 1995
 
@@ -56,6 +82,7 @@ user_groups: ["Principal Investigators"]
 highlight_name: false
 ---
 
-Fill in biography...
+Zuntao Fu is a professor in atmospheric sciences at Peking University. His research interests include nonlinear dynamics, atmospheric dynamics, time series analysis, and machine learning.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
