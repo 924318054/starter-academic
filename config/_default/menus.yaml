@@ -17,13 +17,13 @@ main:
     url: './group/'
     weight: 40
   - name: Courses
-    url: '#courses'
+    url: './course/'
     weight: 50
   - name: News
-    url: '#cv'
+    url: '#posts'
     weight: 60 
   - name: Data&codes
-    url: '#contact'
+    url: './datacodes/'
     weight: 70
 
 
