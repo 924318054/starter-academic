@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu Huang
+title: Siyang Yu
 
 # Is this the primary user of the site?
 superuser: False

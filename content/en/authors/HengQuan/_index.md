@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu Huang
+title: Heng Quan
 
 # Is this the primary user of the site?
 superuser: False
@@ -12,5 +12,5 @@ interests:
 - interest 1
 - interest 2
 
-user_groups: ["Grad Students"]
+user_groups: ["Undergraduates"]
 ---
