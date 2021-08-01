@@ -38,7 +38,7 @@ image:
 2） 气温日较差变率的记忆性在南方和北方差异：在北方日较差变率具有单分形特征，而南方具有多分形特征（详见 Yuan, Fu and Mao, Theor. Appl. Climat. 2013）。
 ||
 |--|
-|<img src="/media/rs3.png" height="60%" width="60%">|
+|<img src="/media/rs3.png" height="80%" width="80%">|
 
 3） 大西洋沿岸气温变率长期记忆性的百年尺度振荡：记忆性是气候变化的内在属性，它不是恒定不变的，特别是在大西洋沿岸地区，气温的记忆性具有百年尺度的振荡特征（详见 Yuan and Fu, J. Clim. 2014）。
 |||
