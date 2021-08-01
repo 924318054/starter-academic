@@ -1,6 +1,6 @@
 ---
 title: Welcome to Professor Fu's research group!
-subtitle:
+subtitle: 1
 
 # Summary for listings and search engines
 summary: Our group enrolls a Ph.D student every year from Summer Camp of School of Physics for excellent undergraduates (see web). Welcome undergraduates majoring in meteorology or others, especially physics & mathematics, to join us. You may contact Professor Fu.
@@ -25,7 +25,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 
   focal_point: ""
   placement: 2
   preview_only: false
