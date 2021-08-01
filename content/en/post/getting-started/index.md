@@ -1,5 +1,5 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
+title: Welcome to Professor Fu's research group!
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
@@ -30,15 +30,8 @@ image:
 
 authors:
 - admin
-- 吳恩達
-
-tags:
-- Academic
-- 开源
-
-categories:
-- Demo
-- 教程
 ---
+Our group enrolls a Ph.D student every year from Summer Camp of School of Physics for excellent undergraduates (see web). Welcome undergraduates majoring in meteorology or others, especially physics & mathematics, to join us. You may contact Professor Fu.
 
+Our group plans to enroll a postdoctor, relating to time series analysis of meteorology and climatology, climate network research. Welcome Ph.D with well relevant research to join us. You may contact Professor Fu.
 
