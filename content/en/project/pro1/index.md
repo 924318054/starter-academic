@@ -45,5 +45,5 @@ image:
 
 4） 气候变率的长期记忆性的分数阶积分统计模型及其预测：气候变率可以分解为累积记忆分量和天气尺度激发两部分，即 x(t)=M(t)+Ε(t) 其中的累计记忆分量可以用分数阶积分计算出（详见Yuan, Fu and Liu, J. Geophys. Res. 2013；Yuan, Fu and Liu, Scientific Reports 2014）并用于气候变率的预测（详见Yuan, Fu and Liu, Scientific Reports 2014）
 ||||
-|--|-|-|
+|---|--|--|
 | <img src="/media/rs6.png"> | <img src="/media/rs7.png"> | <img src="/media/rs8.png"> |
