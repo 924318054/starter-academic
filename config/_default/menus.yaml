@@ -20,7 +20,7 @@ main:
     url: './courses/'
     weight: 50
   - name: News
-    url: '#posts'
+    url: './post/'
     weight: 60 
   - name: Data&codes
     url: './datacodes/'
