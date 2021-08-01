@@ -27,7 +27,7 @@ image:
 # slides: example
 ---
 
-Data
+<font size=4>**Data**</font>
 
 CFSR (Climate Forecast System Reanalysis) 高分辨率再分析资料 (1979-Present) http://cfs.ncep.noaa.gov/cfsr/
 
@@ -53,10 +53,10 @@ ECMWF http://apps.ecmwf.int/datasets/
 
 MODIS (Terra and Aqua, Level3, Monthly, Collection#5) https://ladsweb.nascom.nasa.gov/data/search.html
 
-NASA Global Observations (NEO)http://neo.sci.gsfc.nasa.gov/
+NASA Global Observations (NEO) http://neo.sci.gsfc.nasa.gov/
 
 
-Academic journals
+<font size=4>**Academic journals**</font>
 
 Nature http://www.nature.com/nature/index.html
 
@@ -83,7 +83,7 @@ RMetS Journals http://www.rmets.org/publications/journals
 arXiv http://arxiv.org/
 
 
-Entertainment
+<font size=4>**Entertainment**</font>
 
 TED http://www.ted.com/
 
