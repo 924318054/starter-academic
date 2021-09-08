@@ -11,4 +11,4 @@ weight: 20
 
 <font size=6>**Group Meeting Speakers**</font>
 
-|<img src="/media/meet.png" height="80%" width="80%">|
+<img src="/media/meet.png" height="80%" width="80%">
