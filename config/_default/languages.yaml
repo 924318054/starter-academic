@@ -9,32 +9,32 @@ en:
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
-  languageCode: zh-Hans
-  contentDir: content/zh
-  title: Chinese website title...
-  params:
-    description: Site description in Chinese...
-  menu:
-    main:
-      - name: 首页
-        url: '#about'
-        weight: 10
-      - name: 研究项目
-        url: '#projects'
-        weight: 20
-      - name: 发表文章
-        url: './publication/'
-        weight: 30
-      - name: 小组成员
-        url: './group/'
-        weight: 40
-      - name: 课程
-        url: './courses/'
-        weight: 50
-      - name: 新闻
-        url: './post/'
-        weight: 60 
-      - name: 数据及代码
-        url: './datacodes/'
-        weight: 70
+#zh:
+#  languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: Chinese website title...
+#  params:
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: 首页
+#        url: '#about'
+#        weight: 10
+#      - name: 研究项目
+#        url: '#projects'
+#        weight: 20
+#      - name: 发表文章
+#        url: './publication/'
+#        weight: 30
+#      - name: 小组成员
+#        url: './group/'
+#        weight: 40
+#      - name: 课程
+#        url: './courses/'
+#        weight: 50
+#      - name: 新闻
+#        url: './post/'
+#        weight: 60 
+#      - name: 数据及代码
+#        url: './datacodes/'
+#        weight: 70
