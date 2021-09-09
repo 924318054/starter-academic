@@ -11,7 +11,6 @@ authors:
 
 
 date: "2020-04-06T00:00:00Z"
-doi: "10.1002/joc.6602"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-06T00:00:00Z"
@@ -50,7 +49,4 @@ url_video: ''
 
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
