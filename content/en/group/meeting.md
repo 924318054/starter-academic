@@ -4,9 +4,11 @@
 widget: blank
 
 # This file represents a page section.
-headless: true
+headless: false
 
 weight: 20
+
+title: Group Meeting Speakers
 ---
 
 <font size=6>**Group Meeting Speakers**</font>
