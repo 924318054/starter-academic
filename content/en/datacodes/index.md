@@ -26,6 +26,10 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+<font size=6>**Codes**</font>
+
+{{< icon name="download" pack="fas" >}}{{< staticref "uploads/multipyESNnocouple.py" "newtab" >}}Testing codes{{< /staticref >}}.
+
 
 <font size=6>**Data**</font>
 
