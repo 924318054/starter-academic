@@ -1,7 +1,7 @@
 ---
 widget: people
 headless: true  # This file represents a page section.
-
+title: Group Members
 # ... Put Your Section Options Here (title etc.) ...
 weight: 10
 
